@@ -31,7 +31,7 @@ def bills(value):
 	return (twenties, tens, fives, twos, ones);
 
 if __name__ == "__main__":
-	print(dissipated_power(69, 420))
-	print(orthogonal((1, 1), (-1, 1)))
-	print(average([1, 4, -2, 10]))
-	print(bills(137))
+	print(dissipated_power(69, 420)) #calling a function and putting the parameters in its place
+	#print(orthogonal((1, 1), (-1, 1)))
+	#print(average([1, 4, -2, 10]))
+	#print(bills(137))
